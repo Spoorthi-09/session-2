@@ -1,0 +1,21 @@
+body
+{
+  background-color:#ffe4c4;
+}
+h1
+{
+  color:#006400;
+  text-align: center;
+}
+h2
+{
+  color:#6b8e23;
+}
+section
+{
+  background: linear-gradient(to right, #dda0dd, #e6e6fa);
+}
+nav
+{
+  color:brown;
+}
